@@ -3,6 +3,15 @@
 ## Description
 Created a geospatial visualization of active COVID-19 cases in Canada and a closer look at Ontario. Used governmental data in combination with R scripting and leaflet to outline a choropleth map. Visualisation communicates areas that are highly affected with COVID-19.
 
+## Canada
+![CanadaMap](./images/Canada.png)
+
+## Ontario
+![CanadaMap](./images/Ontario.png)
+
+## Southern Ontario
+![CanadaMap](./images/southOntario.png)
+
 ## Notes
 The data used for this project is data from April 4, 2021
 
